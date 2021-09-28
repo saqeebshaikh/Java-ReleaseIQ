@@ -1,4 +1,4 @@
-package com.sss.test.circleci;
+package com.sss.test.releaseiq;
 
 public class HelloWorld {
     public static void main(String[] args) {
